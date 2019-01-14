@@ -1,7 +1,7 @@
 Started GET "/" for 127.0.0.1 at 2019-01-13 13:35:00 -0600
-  
+
 ActionController::RoutingError (uninitialized constant WelcomeController):
-  
+
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
@@ -49,9 +49,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/" for 127.0.0.1 at 2019-01-13 13:38:45 -0600
-  
+
 ActionController::RoutingError (uninitialized constant WelcomeController):
-  
+
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
@@ -99,9 +99,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/" for 127.0.0.1 at 2019-01-13 13:53:22 -0600
-  
+
 ActionController::RoutingError (uninitialized constant WelcomeController):
-  
+
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
@@ -149,9 +149,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/favicon.ico" for 127.0.0.1 at 2019-01-13 13:53:23 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -175,9 +175,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/" for 127.0.0.1 at 2019-01-13 13:55:43 -0600
-  
+
 ActionController::RoutingError (uninitialized constant WelcomeController):
-  
+
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
@@ -225,9 +225,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/" for 127.0.0.1 at 2019-01-13 13:57:25 -0600
-  
+
 ActionController::RoutingError (uninitialized constant WelcomeController):
-  
+
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
@@ -295,9 +295,9 @@ Started GET "/assets/css/quizlets.self-e31b6fba48f4b327caff219c466f255e13ec38eb6
 Started GET "/assets/css/main.self-90b4f74350deda05f80a8f73b5f483a0ca17d50885ca607b46523026014ca75d.css?body=1" for 127.0.0.1 at 2019-01-13 14:00:41 -0600
 Started GET "/assets/css/about.self-f8885d1bf2ce52f72712ccd076b9cf0cb3984a040e51e645ec444bdc88a014e0.css?body=1" for 127.0.0.1 at 2019-01-13 14:00:41 -0600
 Started GET "/about" for 127.0.0.1 at 2019-01-13 14:00:57 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/about"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -321,9 +321,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/about.html" for 127.0.0.1 at 2019-01-13 14:01:06 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/about.html"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -354,9 +354,9 @@ Completed 200 OK in 67ms (Views: 61.8ms)
 
 
 Started GET "/css/main.css" for 127.0.0.1 at 2019-01-13 14:02:00 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/css/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -380,9 +380,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 14:02:00 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -406,9 +406,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/assets/images/bg.svg" for 127.0.0.1 at 2019-01-13 14:02:00 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/assets/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -444,9 +444,9 @@ Completed 200 OK in 90ms (Views: 86.3ms)
 
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 14:02:43 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -470,9 +470,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 14:02:43 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -496,9 +496,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/css/main.css" for 127.0.0.1 at 2019-01-13 14:02:43 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/css/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -535,9 +535,9 @@ Completed 200 OK in 36ms (Views: 32.9ms)
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 14:03:00 -0600
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 14:03:00 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -560,9 +560,9 @@ puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
 puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -586,9 +586,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 14:03:00 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -612,9 +612,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/quizlet" for 127.0.0.1 at 2019-01-13 14:04:21 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/quizlet"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -638,9 +638,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 14:04:22 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -664,9 +664,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 14:04:22 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -702,9 +702,9 @@ Completed 200 OK in 292ms (Views: 283.2ms)
 
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:16:52 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -728,9 +728,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:16:52 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -754,9 +754,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:16:53 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -792,9 +792,9 @@ Completed 200 OK in 34ms (Views: 26.4ms)
 
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:18:56 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -818,9 +818,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:18:56 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -844,9 +844,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:18:56 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -870,9 +870,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/quizlet" for 127.0.0.1 at 2019-01-13 15:19:00 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/quizlet"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -896,9 +896,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/quizlets" for 127.0.0.1 at 2019-01-13 15:19:10 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/quizlets"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -926,14 +926,14 @@ Processing by WelcomeController#index as HTML
 Completed 406 Not Acceptable in 122ms
 
 
-  
+
 ActionController::UnknownFormat (WelcomeController#index is missing a template for this request format and variant.
 
 request.formats: ["text/html"]
 request.variant: []
 
 NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
-  
+
 actionpack (5.1.4) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
 actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
 actionpack (5.1.4) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
@@ -995,9 +995,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/aindex" for 127.0.0.1 at 2019-01-13 15:19:26 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/aindex"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1033,9 +1033,9 @@ Completed 200 OK in 205ms (Views: 201.6ms)
 
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:19:39 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1059,9 +1059,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:19:39 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1085,9 +1085,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:19:39 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1111,9 +1111,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:19:39 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1145,9 +1145,9 @@ Completed 200 OK in 15ms (Views: 11.5ms)
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:19:47 -0600
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:19:47 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1170,9 +1170,9 @@ puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
 puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1203,9 +1203,9 @@ Completed 200 OK in 39ms (Views: 34.2ms)
 
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:20:01 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1229,9 +1229,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:20:01 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1255,9 +1255,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:20:01 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1281,9 +1281,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:20:02 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1315,9 +1315,9 @@ Completed 200 OK in 28ms (Views: 24.6ms)
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:20:40 -0600
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:20:40 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1340,9 +1340,9 @@ puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
 puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1366,9 +1366,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:20:40 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1392,9 +1392,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:20:40 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1418,9 +1418,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:20:40 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1451,9 +1451,9 @@ Completed 200 OK in 25ms (Views: 22.8ms)
 
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:21:25 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1477,9 +1477,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:21:25 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1503,9 +1503,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:21:25 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1542,9 +1542,9 @@ Completed 200 OK in 30ms (Views: 26.6ms)
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:22:18 -0600
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:22:18 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1567,9 +1567,9 @@ puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
 puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1600,9 +1600,9 @@ Completed 200 OK in 25ms (Views: 22.2ms)
 
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:23:22 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1626,9 +1626,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:23:22 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1652,9 +1652,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/html/quizlets.html" for 127.0.0.1 at 2019-01-13 15:25:16 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/html/quizlets.html"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1678,9 +1678,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:25:18 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1704,9 +1704,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:25:18 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1737,9 +1737,9 @@ Completed 200 OK in 28ms (Views: 25.6ms)
 
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:28:26 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1763,9 +1763,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:28:26 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1789,9 +1789,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:28:26 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1815,9 +1815,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:28:27 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1849,9 +1849,9 @@ Completed 200 OK in 29ms (Views: 25.6ms)
 
 Started GET "/stylesheets/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:30:27 -0600
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:30:27 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1874,9 +1874,9 @@ puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
 puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1900,9 +1900,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:30:27 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1933,9 +1933,9 @@ Completed 200 OK in 27ms (Views: 23.2ms)
 
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:30:36 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1959,9 +1959,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:30:36 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -1998,9 +1998,9 @@ Completed 200 OK in 25ms (Views: 21.4ms)
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:31:13 -0600
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:31:13 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2023,9 +2023,9 @@ puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
 puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2056,9 +2056,9 @@ Completed 200 OK in 39ms (Views: 35.7ms)
 
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:31:58 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2082,9 +2082,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:31:58 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2108,9 +2108,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:31:58 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2134,9 +2134,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:31:58 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2172,9 +2172,9 @@ Completed 200 OK in 34ms (Views: 30.0ms)
 
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:32:32 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2199,9 +2199,9 @@ puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:32:32 -0600
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:32:32 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2224,9 +2224,9 @@ puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
 puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2257,9 +2257,9 @@ Completed 200 OK in 29ms (Views: 25.3ms)
 
 
 Started GET "/stylesheets/application.css" for 127.0.0.1 at 2019-01-13 15:32:40 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/application.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2283,9 +2283,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:32:40 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2309,9 +2309,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:32:40 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2335,9 +2335,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:32:41 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2370,9 +2370,9 @@ Completed 200 OK in 201ms (Views: 197.6ms)
 Started GET "/assets/about.self-f8885d1bf2ce52f72712ccd076b9cf0cb3984a040e51e645ec444bdc88a014e0.css?body=1" for 127.0.0.1 at 2019-01-13 15:33:00 -0600
 Started GET "/assets/main.self-90b4f74350deda05f80a8f73b5f483a0ca17d50885ca607b46523026014ca75d.css?body=1" for 127.0.0.1 at 2019-01-13 15:33:00 -0600
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:33:00 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2399,9 +2399,9 @@ Started GET "/assets/notes.self-e31b6fba48f4b327caff219c466f255e13ec38eb6c537bfc
 Started GET "/assets/other.self-e31b6fba48f4b327caff219c466f255e13ec38eb6c537bfc4779d1722d28b9b4.css?body=1" for 127.0.0.1 at 2019-01-13 15:33:00 -0600
 Started GET "/assets/quizlets.self-e31b6fba48f4b327caff219c466f255e13ec38eb6c537bfc4779d1722d28b9b4.css?body=1" for 127.0.0.1 at 2019-01-13 15:33:00 -0600
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:33:01 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2425,9 +2425,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:33:01 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2451,9 +2451,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 15:33:01 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2477,9 +2477,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/index.html" for 127.0.0.1 at 2019-01-13 15:34:02 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/index.html"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2503,9 +2503,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:34:02 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2529,9 +2529,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:34:03 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2555,9 +2555,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:34:03 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2581,9 +2581,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 15:34:03 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2607,9 +2607,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/html/quizlets.html" for 127.0.0.1 at 2019-01-13 15:34:04 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/html/quizlets.html"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2633,9 +2633,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/html/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:34:04 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/html/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2659,9 +2659,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:34:04 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2686,9 +2686,9 @@ puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/" for 127.0.0.1 at 2019-01-13 15:34:04 -0600
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 15:34:04 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2713,9 +2713,9 @@ puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 15:34:04 -0600
 Processing by WelcomeController#index as HTML
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2744,9 +2744,9 @@ Completed 200 OK in 569ms (Views: 565.7ms)
 
 
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 15:34:05 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2771,10 +2771,10 @@ puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 16:40:47 -0600
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 16:40:47 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
-  
+
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
@@ -2798,7 +2798,7 @@ puma (3.11.2) lib/puma/server.rb:624:in `handle_request'
 puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2829,9 +2829,9 @@ Completed 200 OK in 163ms (Views: 159.7ms)
 
 
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 17:33:20 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2855,9 +2855,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 17:33:20 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2881,9 +2881,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 17:33:21 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2907,9 +2907,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 17:33:21 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2933,9 +2933,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/favicon.ico" for 127.0.0.1 at 2019-01-13 17:33:22 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2966,9 +2966,9 @@ Completed 200 OK in 277ms (Views: 266.1ms)
 
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 17:33:49 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -2992,9 +2992,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 17:33:49 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3018,9 +3018,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 17:33:50 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3044,9 +3044,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 17:33:50 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3070,9 +3070,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/" for 127.0.0.1 at 2019-01-13 17:34:00 -0600
-  
+
 ActionController::RoutingError (uninitialized constant WelcomeController):
-  
+
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `const_get'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:269:in `block in constantize'
 activesupport (5.1.4) lib/active_support/inflector/methods.rb:267:in `each'
@@ -3127,9 +3127,9 @@ Completed 200 OK in 200ms (Views: 194.2ms)
 
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 17:34:23 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3153,9 +3153,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 17:34:23 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3179,9 +3179,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 17:34:24 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3212,9 +3212,9 @@ Completed 200 OK in 31ms (Views: 27.9ms)
 
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 17:34:43 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3238,9 +3238,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 17:34:43 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3264,9 +3264,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 17:34:44 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3297,9 +3297,9 @@ Completed 200 OK in 50ms (Views: 46.7ms)
 
 
 Started GET "/stylesheets/main.css" for 127.0.0.1 at 2019-01-13 17:34:50 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/stylesheets/main.css"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3323,9 +3323,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/icon.svg" for 127.0.0.1 at 2019-01-13 17:34:50 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/icon.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
@@ -3349,9 +3349,9 @@ puma (3.11.2) lib/puma/server.rb:438:in `process_client'
 puma (3.11.2) lib/puma/server.rb:302:in `block in run'
 puma (3.11.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
 Started GET "/images/bg.svg" for 127.0.0.1 at 2019-01-13 17:34:50 -0600
-  
+
 ActionController::RoutingError (No route matches [GET] "/images/bg.svg"):
-  
+
 actionpack (5.1.4) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
 actionpack (5.1.4) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
 railties (5.1.4) lib/rails/rack/logger.rb:36:in `call_app'
