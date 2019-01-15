@@ -1,41 +1,129 @@
-$brand-primary: #532F8C;
-$brand-language: #B01302;
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
-.jumbotron {
-  background: $brand-primary;
-  color: white;
-  padding-bottom: 80px;
+body, html {
+  height: calc(100% - 2em);
+  margin: 0;
+  font-family: 'Montserrat';
+}
+body {
+  background-color: #2A7AEC;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 
-  .btn-primary {
-    background: lighten($brand-primary, 20%);
-    border-color: lighten($brand-primary, 20%);
-    &:hover {
-      background: lighten($brand-primary, 15%);
-    }
-  }
+body {
+  display: grid;
+  grid-template-columns: 20% auto;
+  padding: 2em;
+}
 
-  p {
-    color: lighten($brand-primary, 50%);
-    max-width: 75%;
-    margin: 1em auto 2em;
-  }
+aside {
+  background-color: #F4ECEC;
+  grid-template-rows: 20% auto;
+  grid-template-columns: auto;
+  padding: 0;
+}
 
-  .navbar + & {
-    margin-top: -20px;
-  }
+main {
+  padding: 4em;
+  background: #fff url('/../public/images/bg.svg') no-repeat bottom right;
+  background-size: 70%;
+  margin-right: 0;
+  margin-bottom: 0;
 
-  .lang-logo {
-    display: block;
-    background: $brand-language;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: auto;
-    border: 2px solid white;
-    img {
-      max-width: 100%;
-    }
-  }
+}
 
+img {
+     height: 224px;
+     width: 224px;
+     margin: -2em auto -6em auto;
+     padding: 10px
+}
+
+figcaption {
+  text-align: center;
+  color: #000;
+}
+
+figure {
+  margin: 0
+}
+
+figcaption {
+  font-size: 20px;
+   font-weight: bold;
+   padding-bottom: 1em;
+}
+
+
+nav {
+  background-color: #fff;
+}
+
+.active {
+  position: absolute;
+  display: block;
+  background-color: #fff;
+  width: 50%;
+  left: 0;
+  top: 0;
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 1em;
+  padding: 0;
+}
+
+ul li a:hover {
+    background-color: #fff;
+}
+
+.cta:hover {
+  background-color: #669EED;
+}
+
+.cta {
+  display: inline-block;
+  font-size: 18px;
+  padding: .8em 3em;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000;
+  font-size: .8em;
+  background-color: #F5F2F2;
+  padding: 1em 4em;
+  text-align: center;
+}
+
+main {
+  background-color: #fff;
+  padding: 1em 1.4em;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3em;
+  margin-top: 2em;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+
+.cta {
+    color: #fff;
+    background-color: #2A7AEC;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 4px;
+    margin: 2em 0;
 }
