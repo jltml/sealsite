@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body, html {
+  height: calc(100% - 2em);
+  margin: 0;
+  font-family: 'Montserrat';
+}
+body {
+  background: #2A7AEC;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body, html {
+  height: calc(100% - 2em);
+  margin: 0;
+  font-family: 'Montserrat';
+}
+body {
+  background-color: #2A7AEC;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 20% auto;
+  padding: 2em;
+}
+
+aside {
+  background-color: #F4ECEC;
+  grid-template-rows: 20% auto;
+  grid-template-columns: auto;
+  padding: 0;
+}
+
+main {
+  padding: 4em;
+  background: #fff url('/../public/images/bg.svg') no-repeat bottom right;
+  background-size: 70%;
+  margin-right: 0;
+  margin-bottom: 0;
+
+}
+
+img {
+     height: 224px;
+     width: 224px;
+     margin: -2em auto -6em auto;
+     padding: 10px
+}
+
+figcaption {
+  text-align: center;
+  color: #000;
+}
+
+figure {
+  margin: 0
+}
+
+figcaption {
+  font-size: 20px;
+   font-weight: bold;
+   padding-bottom: 1em;
+}
+
+
+nav {
+  background-color: #fff;
+}
+
+.active {
+  position: absolute;
+  display: block;
+  background-color: #fff;
+  width: 50%;
+  left: 0;
+  top: 0;
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin-top: 1em;
+  padding: 0;
+}
+
+ul li a:hover {
+    background-color: #fff;
+}
+
+.cta:hover {
+  background-color: #669EED;
+}
+
+.cta {
+  display: inline-block;
+  font-size: 18px;
+  padding: .8em 3em;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000;
+  font-size: .8em;
+  background-color: #F5F2F2;
+  padding: 1em 4em;
+  text-align: center;
+}
+
+main {
+  background-color: #fff;
+  padding: 1em 1.4em;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3em;
+  margin-top: 2em;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+
+.cta {
+    color: #fff;
+    background-color: #2A7AEC;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 4px;
+    margin: 2em 0;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body, html {
+  height: calc(100% - 2em);
+  margin: 0;
+  font-family: 'Montserrat';
+}
+body {
+  background-color: #2A7AEC;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body, html {
+  height: calc(100% - 2em);
+  margin: 0;
+  font-family: 'Montserrat';
+}
+body {
+  background-color: #2A7AEC;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body, html {
+  height: calc(100% - 2em);
+  margin: 0;
+  font-family: 'Montserrat';
+}
+body {
+  background-color: #2A7AEC;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+/* line 3, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+body, html {
+  height: calc(100% - 2em);
+  margin: 0;
+  font-family: 'Montserrat';
+}
+
+/* line 8, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+body {
+  background-color: #2A7AEC;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* line 14, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+body {
+  display: grid;
+  grid-template-columns: 20% auto;
+  padding: 2em;
+}
+
+/* line 20, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+aside {
+  background-color: #F4ECEC;
+  grid-template-rows: 20% auto;
+  grid-template-columns: auto;
+  padding: 0;
+}
+
+/* line 27, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+main {
+  padding: 4em;
+  background: #fff url("/../public/images/bg.svg") no-repeat bottom right;
+  background-size: 70%;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+/* line 36, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+img {
+  height: 224px;
+  width: 224px;
+  margin: -2em auto -6em auto;
+  padding: 10px;
+}
+
+/* line 43, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+figcaption {
+  text-align: center;
+  color: #000;
+}
+
+/* line 48, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+figure {
+  margin: 0;
+}
+
+/* line 52, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+figcaption {
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 1em;
+}
+
+/* line 59, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+nav {
+  background-color: #fff;
+}
+
+/* line 63, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+.active {
+  position: absolute;
+  display: block;
+  background-color: #fff;
+  width: 50%;
+  left: 0;
+  top: 0;
+  height: 100%;
+}
+
+/* line 73, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+ul {
+  list-style-type: none;
+  margin-top: 1em;
+  padding: 0;
+}
+
+/* line 79, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+ul li a:hover {
+  background-color: #fff;
+}
+
+/* line 83, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+.cta:hover {
+  background-color: #669EED;
+}
+
+/* line 87, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+.cta {
+  display: inline-block;
+  font-size: 18px;
+  padding: .8em 3em;
+}
+
+/* line 93, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+ul li a {
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000;
+  font-size: .8em;
+  background-color: #F5F2F2;
+  padding: 1em 4em;
+  text-align: center;
+}
+
+/* line 105, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+main {
+  background-color: #fff;
+  padding: 1em 1.4em;
+}
+
+/* line 110, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+h1 {
+  margin: 0;
+  font-size: 3em;
+  margin-top: 2em;
+}
+
+/* line 116, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+p {
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+
+/* line 121, /Users/jackmapellentz/Desktop/Projects/sealsite/app/assets/stylesheets/theme.css.scss */
+.cta {
+  color: #fff;
+  background-color: #2A7AEC;
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 4px;
+  margin: 2em 0;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or vendor/assets/stylesheets of plugins, if any, can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
